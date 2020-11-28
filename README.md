@@ -4,6 +4,7 @@
 
 * [Juno Ocean](https://www.gnome-look.org/p/1280977/)
 * [Nordic](https://www.gnome-look.org/p/1267246/)
+* [Flat Remix Blue](www.xcfe-look.org/p/1214931)
 
 ## Cursors
 
