@@ -13,6 +13,7 @@
 * [Simp1e Cursor Theme](https://www.gnome-look.org/p/1405210/)
 * [Bibata](https://www.pling.com/s/Linux/p/1197198/)
 * [Volantes](https://www.pling.com/s/Linux/p/1356095/)
+* [DMZ-White](https://www.pling.com/p/999856/)
 
 
 ## Icons
