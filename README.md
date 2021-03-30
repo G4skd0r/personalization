@@ -21,3 +21,8 @@
 * [Flatery](https://www.gnome-look.org/s/Gnome/p/1332404)
 * [Flat Remix](https://www.gnome-look.org/p/1012430/)
 * [Papirus](https://www.pling.com/s/Linux/p/1166289)
+
+## Fonts
+* Source Sans Pro
+* Consolas
+* Ubuntu
