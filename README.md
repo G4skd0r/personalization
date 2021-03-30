@@ -27,3 +27,8 @@
 * Consolas
 * Ubuntu
 * [Hack](https://github.com/source-foundry/Hack)
+* Jetbrains Mono
+
+## Colors
+* [Nord](https://github.com/arcticicestudio/nord)
+* [Nord oficial] (https://www.nordtheme.com/)
