@@ -28,6 +28,7 @@
 * Ubuntu
 * [Hack](https://github.com/source-foundry/Hack)
 * Jetbrains Mono
+* [Cascadia Code](https://github.com/microsoft/cascadia-code)
 
 ## Colors
 * [Nord](https://github.com/arcticicestudio/nord)
